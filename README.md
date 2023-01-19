@@ -6,4 +6,4 @@ Porém quando temos um espaço de possibilidades muito grande, isso se torna uma
 
 Uma das maneiras de contornar essa limitação, é aproximar nossa Q-table para uma Rede Neural:
 
-![Schema](nandodmelo.github.io/SchemaDQN.drawio.png)
+![Schema](nandodmelo.github.io/SchemaDQN.png)
